@@ -6,3 +6,7 @@
 ## what's this
 first,my meme is Chigua Duizhang,this is my github ID,i'll always share my coding project at there.so,these coding is open coding.
 this project named office museum and this is a android applition,used android,by the kotlin.i think that the coding there is simply.someone can learn something from there(only someone start to learn how to create android project).
+
+
+注意，此项目请转至gitee进行查看。
+wait!please watch this program to https://gitee.com
